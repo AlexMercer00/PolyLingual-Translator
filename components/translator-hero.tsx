@@ -71,6 +71,8 @@ const LANGUAGES: Language[] = [
   { code: "zh", name: "Chinese" },
   { code: "ja", name: "Japanese" },
   { code: "ko", name: "Korean" },
+  { code: "hi", name: "Hindi" },
+  { code: "uk", name: "Ukrainian" },
 ]
 
 const API_URL = 'https://api.mymemory.translated.net/get'
