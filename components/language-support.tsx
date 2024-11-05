@@ -4,7 +4,7 @@ import { Badge } from "@/components/ui/badge"
 export function LanguageSupport() {
   const languages = [
     "English", "Spanish", "French", "German", "Italian", "Portuguese",
-    "Russian", "Chinese", "Japanese", "Korean"
+    "Russian", "Chinese", "Japanese", "Korean", "Hindi", "Ukrainian"
   ]
 
   return (
